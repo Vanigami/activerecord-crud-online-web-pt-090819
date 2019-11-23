@@ -9,11 +9,11 @@ def can_be_created_in_a_block(args = )
 end
 
 def can_get_the_first_item_in_the_database
-  
+
 end
 
 def can_get_the_last_item_in_the_database
-  
+
 end
 
 def can_get_size_of_the_database
@@ -21,15 +21,15 @@ def can_get_size_of_the_database
 end
 
 def can_find_the_first_item_from_the_database_using_id
-  
+
 end
 
 def can_find_by_multiple_attributes
-  
+
 end
 
 def can_find_using_where_clause_and_be_sorted
-  
+
 end
 
 def can_be_found_updated_and_saved
@@ -48,5 +48,5 @@ def can_destroy_a_single_item
 end
 
 def can_destroy_all_items_at_once
-  
+
 end
